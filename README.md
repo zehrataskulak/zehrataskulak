@@ -43,22 +43,22 @@ I am a dual-degree Software and Industrial Engineering student and a rigorous co
 
 ### 🔥 Featured Engineering Projects
 
-#### 🐚 [Minishell (C)](https://github.com/zehrataskulak)
+#### 🐚 [Minishell (C)](https://github.com/zehrataskulak/minishell)
 Engineered a custom UNIX shell from scratch with robust bash-like functionalities.
 * **Achievement:** Implemented complex command chaining (pipes), process creation (fork), and environment execution.
 * **Quality Metric:** Achieved **0 memory leaks** across 100+ edge-case scenarios, rigorously verified by Valgrind.
 
-#### 🧠 [Philosophers (C)](https://github.com/zehrataskulak)
+#### 🧠 [Philosophers (C)](https://github.com/zehrataskulak/philosophers)
 Solved the classic Dining Philosophers concurrency problem using multithreading.
 * **Achievement:** Utilized POSIX threads and mutex locks to manage optimized resource allocation.
 * **Quality Metric:** Sustained stable execution with **0 data races or deadlocks** under extreme thread load.
 
-#### 📡 [Minitalk (C)](https://github.com/zehrataskulak)
+#### 📡 [Minitalk (C)](https://github.com/zehrataskulak/minitalk)
 Built a robust client-server communication protocol using only UNIX signals (SIGUSR1, SIGUSR2).
 * **Achievement:** Encoded and decoded strings via bitwise operations for transmission.
 * **Quality Metric:** Guaranteed 100% accurate and lightning-fast data transfer between distinct processes.
 
-#### ⚙️ [Data Extraction Pipeline (Python/FastAPI)](https://github.com/zehrataskulak)
+#### ⚙️ [Data Extraction Pipeline (Python/FastAPI)](https://github.com/zehrataskulak/Document-Scraper)
 Developed during my internship at Destade Software & Technology.
 * **Achievement:** Built an automated web scraper integrated with a FastAPI backend and PostgreSQL database.
 * **Quality Metric:** Streamlined data operations, reducing manual collection time by 80% and ensuring sub-second data retrieval speeds.

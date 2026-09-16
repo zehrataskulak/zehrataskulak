@@ -27,8 +27,13 @@ Here are some ideas to get you started:
 
 ### 🚀 About Me
 
-I am a dual-degree Software and Industrial Engineering student and a rigorous core curriculum student at **42 Network**, specializing in **low-level systems programming (C/C++), memory management, and concurrency**. I don't just write code; I write memory-safe, leak-free, and highly optimized software. 
+### 🚀 About Me
 
+I am a dual-degree Software and Industrial Engineering student and a core curriculum student at **42 Network**. While my foundation is deeply rooted in **low-level systems programming (C/C++), memory management, and concurrency**, my engineering approach extends far beyond the terminal. 
+
+Bridging the gap between system architecture and scalable applications, I also specialize in **Backend Development and Data Automation**. Drawing from my Industrial Engineering background, I am obsessed with optimizing bottlenecks—whether that means reducing algorithmic time complexity in C, or designing efficient, containerized RESTful data pipelines using **Python, FastAPI, and PostgreSQL**. 
+
+I don't just write code; I engineer robust, memory-safe, and highly optimized end-to-end solutions.
 
 ---
 
